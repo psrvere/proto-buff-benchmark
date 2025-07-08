@@ -81,3 +81,5 @@ ls -lh employees_data.*
 | Protobuf | 21 KB     | **3.9x smaller**  |
 
 Protocol Buffers achieved **74% size reduction** compared to JSON
+
+Note - used this video for learning - https://www.youtube.com/watch?v=46O73On0gyI
